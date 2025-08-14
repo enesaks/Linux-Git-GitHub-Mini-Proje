@@ -25,7 +25,7 @@ Yapılan Adımlar
 ```
 
 
-4.	Deploy Scripti Oluşturma
+3.	Deploy Scripti Oluşturma
 
 	•	/home/ec2-user/script.sh adında bir Bash script hazırlandı.
 
@@ -101,4 +101,7 @@ systemctl status --no-pager onepage.timer
 systemctl list-timers --all | grep onepage || true
 
 ```
+## Sonuç
+Bu proje ile bir web uygulamasının AWS EC2 üzerinde Apache web sunucusu ile yayınlanması, Git/GitHub üzerinden kod yönetimi ve Bash script ile otomatik dağıtım süreçleri başarıyla tamamlandı.
 
+Yapılan çalışma, DevOps kültüründe yer alan Continuous Deployment (CD), otomasyon, altyapı yönetimi ve versiyon kontrolü gibi temel prensipleri uygulamalı olarak deneyimleme fırsatı sundu. 
