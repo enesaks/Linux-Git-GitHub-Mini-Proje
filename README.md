@@ -1,4 +1,4 @@
-# Linux-Git-GitHub Mini Proje
+# Cloud-Deployment-With-Git Proje
 
 ## Proje Amacı:
 
